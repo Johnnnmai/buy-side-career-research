@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Johnnnmai/hedge-fund-interview-field-guide/stargazers"><img src="https://img.shields.io/github/stars/Johnnnmai/hedge-fund-interview-field-guide?style=social" alt="GitHub Stars"></a>
-  <a href="https://github.com/Johnnnmai/hedge-fund-interview-field-guide/network/members"><img src="https://img.shields.io/github/forks/Johnnnmai/hedge-fund-interview-field-guide?style=social" alt="GitHub Forks"></a>
+  <a href="https://github.com/Johnnnmai/buy-side-career-research/stargazers"><img src="https://img.shields.io/github/stars/Johnnnmai/buy-side-career-research?style=social" alt="GitHub Stars"></a>
+  <a href="https://github.com/Johnnnmai/buy-side-career-research/network/members"><img src="https://img.shields.io/github/forks/Johnnnmai/buy-side-career-research?style=social" alt="GitHub Forks"></a>
   <a href="#license"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
-  <a href="https://github.com/Johnnnmai/hedge-fund-interview-field-guide/commits/main"><img src="https://img.shields.io/github/last-commit/Johnnnmai/hedge-fund-interview-field-guide" alt="Last Commit"></a>
+  <a href="https://github.com/Johnnnmai/buy-side-career-research/commits/main"><img src="https://img.shields.io/github/last-commit/Johnnnmai/buy-side-career-research" alt="Last Commit"></a>
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/intent/tweet?text=Hedge%20Fund%20Interview%20Field%20Guide%20%E2%80%93%20built%20from%201%2C180%2B%20real%20job%20descriptions&url=https://github.com/Johnnnmai/hedge-fund-interview-field-guide"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Tweet"></a>
-  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/Johnnnmai/hedge-fund-interview-field-guide"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.reddit.com/submit?url=https://github.com/Johnnnmai/hedge-fund-interview-field-guide&title=Hedge%20Fund%20Interview%20Field%20Guide"><img src="https://img.shields.io/badge/-Reddit-FF4500?logo=reddit&logoColor=white" alt="Reddit"></a>
+  <a href="https://twitter.com/intent/tweet?text=Hedge%20Fund%20Interview%20Field%20Guide%20%E2%80%93%20built%20from%201%2C180%2B%20real%20job%20descriptions&url=https://github.com/Johnnnmai/buy-side-career-research"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Tweet"></a>
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/Johnnnmai/buy-side-career-research"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.reddit.com/submit?url=https://github.com/Johnnnmai/buy-side-career-research&title=Hedge%20Fund%20Interview%20Field%20Guide"><img src="https://img.shields.io/badge/-Reddit-FF4500?logo=reddit&logoColor=white" alt="Reddit"></a>
 </p>
 
 ---
@@ -54,7 +54,7 @@ Pick a track based on how much time you have.
 | Week 7-8 | | [Case Studies](interview/questions/06-case-studies.md) + [Negotiation](interview/04-after-the-interview.md) | [Market Analysis](interview/questions/02-market-analysis.md) + [Portfolio](portfolio/) |
 | Week 9-12 | | | [Case Studies](interview/questions/06-case-studies.md) + [Mock Pitches](interview/01-interview-process.md) + [Negotiation](interview/04-after-the-interview.md) |
 
-[⬆ back to top](#hedge-fund-interview-field-guide)
+[⬆ back to top](#buy-side-career-research)
 
 
 ## 🎯 The HF Analyst Role
@@ -69,7 +69,7 @@ What hedge fund analysts actually do, based on 720 job descriptions.
 
 89.2% of buy-side roles require skills beyond stock picking. Financial modeling is mandatory in 78.4% of roles. Only 5.4% are pure quantitative - the market wants analysts who can build conviction and communicate investment theses.
 
-[⬆ back to top](#hedge-fund-interview-field-guide)
+[⬆ back to top](#buy-side-career-research)
 
 
 ## 💼 Interview Prep
@@ -94,7 +94,7 @@ Consolidated from 55+ sources: candidate stories, hiring managers at funds, care
 | [Behavioral & Fit](interview/questions/05-behavioral.md) | Market passion, intellectual curiosity, dealing with losses, culture fit |
 | [Investment Case Studies](interview/questions/06-case-studies.md) | Take-home memos, timed modeling tests, event analysis, portfolio exercises |
 
-[⬆ back to top](#hedge-fund-interview-field-guide)
+[⬆ back to top](#buy-side-career-research)
 
 
 ## 🔄 Career Transitions
@@ -109,7 +109,7 @@ Consolidated from 55+ sources: candidate stories, hiring managers at funds, care
 | [Academia](learning-paths/from-academia.md) | 4-6 months | Quantitative rigor, research methodology |
 | [Trading](learning-paths/from-trading.md) | 2-3 months | Market intuition, risk awareness |
 
-[⬆ back to top](#hedge-fund-interview-field-guide)
+[⬆ back to top](#buy-side-career-research)
 
 
 ## 🗂️ Portfolio
@@ -122,7 +122,7 @@ Consolidated from 55+ sources: candidate stories, hiring managers at funds, care
 - Sector deep dives and competitive analysis
 - Event-driven case studies
 
-[⬆ back to top](#hedge-fund-interview-field-guide)
+[⬆ back to top](#buy-side-career-research)
 
 
 ## 📚 Resources
@@ -136,7 +136,7 @@ Consolidated from 55+ sources: candidate stories, hiring managers at funds, care
 - Interview question collections
 - Buy-side communities and tools
 
-[⬆ back to top](#hedge-fund-interview-field-guide)
+[⬆ back to top](#buy-side-career-research)
 
 
 ## 🎓 Webinars
@@ -148,7 +148,7 @@ A 4-part event series on hedge fund careers:
 3. [The Interview Process](webinars/03-the-interview-process.md) - real hiring trends and live pitch critiques
 4. [Investment Case Studies](webinars/04-investment-case-studies.md) - analyzing real take-home assignments
 
-[⬆ back to top](#hedge-fund-interview-field-guide)
+[⬆ back to top](#buy-side-career-research)
 
 
 ## 🤝 Contributing
@@ -178,5 +178,5 @@ MIT License - see [LICENSE](LICENSE) for details.
 <p align="center">
   <a href="https://valenx.org/books/hf">📘 The 0→1 Hedge Fund Interview Playbook</a>
   <br/><br/>
-  If this helped, <a href="https://github.com/Johnnnmai/hedge-fund-interview-field-guide/stargazers">leave a ⭐</a>
+  If this helped, <a href="https://github.com/Johnnnmai/buy-side-career-research/stargazers">leave a ⭐</a>
 </p>

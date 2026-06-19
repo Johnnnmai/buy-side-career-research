@@ -21,6 +21,10 @@ Portfolio manager: base $300K-$500K, total compensation is uncapped and primaril
 
 These numbers reflect a competitive market. Funds that were previously rigid on compensation structures have started offering guaranteed first-year bonuses, sign-on packages, and accelerated promotion timelines to attract talent from competing funds and from technology companies.
 
+The compression of banking-to-buy-side timelines is notable. In 2020, the standard path was 2 years in banking before moving to a hedge fund. By 2025, some platforms began hiring directly from first-year banking programs, and a few have launched their own analyst training programs that bypass banking entirely. This means the candidate pool for any given seat is wider and more diverse than it was even 3 years ago.
+
+Turnover at multi-manager platforms remains elevated. PM attrition runs 15.0-20.0% annually at the largest platforms, meaning pods are constantly forming and dissolving. Each new pod formation creates 2-4 analyst seats. This churn is a feature of the model, not a bug, and it creates continuous hiring demand even when the broader market is flat.
+
 
 ## Hiring Trends Shaping Interviews
 
@@ -75,6 +79,10 @@ Proponents of this approach argue that it better simulates the actual job. An an
 Critics argue that it favors candidates who are already covering the relevant sectors and disadvantages career changers or candidates from different investment backgrounds.
 
 Either way, this trend means you should be prepared for both formats. Having a few well-rehearsed stock pitches is not enough. You need to be able to discuss markets broadly, react to new information on the fly, and form opinions quickly with incomplete data.
+
+Funds using this approach report that it reveals a candidate's actual market awareness versus their ability to prepare a polished presentation. Several hiring managers noted that they discovered strong pitchers who could not hold a basic conversation about current market dynamics when the format shifted to real-time discussion.
+
+If you encounter this format, treat it as a live investment committee meeting. Lead with your conclusion on each topic, provide 2-3 supporting data points, acknowledge the key risk, and move on. Spending 10 minutes on a single stock in a rapid-fire discussion format signals that you cannot prioritize or synthesize efficiently.
 
 
 ## Framework Fatigue
@@ -131,3 +139,13 @@ Track headhunter activity. When a specific recruiter suddenly has 5 new mandates
 Read investor letters when they are publicly available or leaked. Letters from firms like Pershing Square, Third Point, Greenlight Capital, and Baupost provide insight into how top investors think and communicate. This shapes your own communication style and gives you material to reference in interviews.
 
 Pay attention to fund launches and spin-outs. When a senior PM leaves a platform to start their own fund, they typically hire 3-8 analysts in the first year. These early hires often receive more responsibility, better economics, and faster career progression than they would at an established firm. The trade-off is higher risk: if the fund does not raise enough capital or underperforms, you may be looking again in 18 months.
+
+Join communities where practitioners share real-time information. Wall Street Oasis has active hedge fund interview threads. Reddit's r/FinancialCareers and r/HedgeFund surfaces compensation data points and process details. Blind provides anonymous reports from current employees at specific funds. LinkedIn groups for CFA charterholders and buy-side professionals occasionally surface hiring insights. Take individual data points with appropriate skepticism, but patterns across multiple sources are reliable.
+
+Subscribe to industry publications that track fund performance and personnel moves. Institutional Investor's Alpha section, Hedge Fund Alert, and Bloomberg's hedge fund coverage report on new launches, closures, key hires, and strategy shifts. This intelligence helps you target your search toward funds that are growing and away from funds that are contracting.
+
+The interview landscape continues to evolve, but the fundamental question remains the same: can you generate ideas that make money, communicate them clearly, and manage risk intelligently? Everything else is a variation on that theme. Master the substance, and the format of any particular interview becomes manageable.
+
+The candidates who succeed in this environment are the ones who treat interview preparation as a continuous process, not a sprint. They maintain a running list of investment ideas, stay current on market developments, build relationships with recruiters and industry contacts, and invest in their technical skills year-round.
+
+When an opportunity appears, they are ready. When the interview format surprises them, they adapt. The market rewards preparation, conviction, and intellectual honesty. Everything in this chapter points back to those three qualities.

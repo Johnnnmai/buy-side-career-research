@@ -3,7 +3,9 @@
 
 ## Handling Rejections
 
-A hedge fund rejection rarely means you are not good enough. The majority of rejections come down to factors outside your control: the fund decided to hire internally, the PM found someone with exact sector overlap, the headcount got frozen, or the timing was wrong.
+A hedge fund rejection rarely means you are not good enough. The majority of rejections come down to factors outside your control: the fund decided to hire internally, the PM found someone with exact sector overlap, the headcount got frozen, the timing was wrong, or they chose a candidate with a pre-existing relationship with the PM.
+
+The hedge fund hiring funnel is steep. A typical analyst seat at a well-known fund attracts 200-400 applications. Of those, 30-50 get a recruiter screen. 10-15 make it to the stock pitch round. 3-5 reach the final round. One person gets the offer. Being in the top 5.0% of applicants and still not getting hired is a normal outcome, not a failure.
 
 Do a retrospective after every rejection. Ask yourself three questions:
 
@@ -26,9 +28,13 @@ Rejection from a top fund does not close the door permanently. Funds rehire. Str
 
 ## Handling Offers
 
-When an offer arrives, resist the urge to accept immediately, even if it is your top choice. Standard practice in the industry is to ask for 3-5 business days to evaluate. No legitimate fund will pressure you into a same-day decision.
+When an offer arrives, resist the urge to accept immediately, even if it is your top choice. Standard practice in the industry is to ask for 3-5 business days to evaluate. No legitimate fund will pressure you into a same-day decision. If a fund gives you a 24-hour exploding offer, that tells you something about their culture and negotiation style.
 
 If you are in active processes with other funds, communicate that honestly. "I am very excited about this opportunity and expect to have clarity on my other processes within the next week" is a normal and expected statement. Funds understand that strong candidates are interviewing at multiple places.
+
+Get the offer in writing before you resign from your current position. Verbal offers in hedge funds are generally reliable, but the specifics of compensation structure, deferred comp terms, non-compete clauses, and start dates should be documented in a formal offer letter. Review it carefully and do not hesitate to ask for clarification on any ambiguous language.
+
+Finish any active interview processes before making a final decision. Accepting an offer prematurely and then backing out to take a better one damages your reputation with the recruiter and the fund. In a small industry, this follows you.
 
 Evaluate the offer on multiple dimensions, not just total compensation:
 
@@ -111,6 +117,10 @@ What is the typical career progression timeline from my starting level?
 
 These questions are expected and signal professionalism. A fund that reacts negatively to them is revealing something about its culture that you should take seriously.
 
+One additional consideration: have a lawyer review your employment agreement before you sign. This is standard practice at the senior level and increasingly common for mid-level hires as well. The cost of a 1-2 hour attorney review ($500-$1,500) is trivial relative to the financial implications of the non-compete, deferred compensation, and clawback provisions you are agreeing to. Employment attorneys who specialize in financial services understand the market norms and can identify clauses that are unusually restrictive.
+
+If you are moving from one fund to another, coordinate the transition carefully. Your current fund's legal team will likely contact you about your obligations under your existing agreement. Be transparent, professional, and compliant. Fighting a non-compete lawsuit is expensive, stressful, and damages your reputation even if you win.
+
 
 ## Final Notes
 
@@ -125,3 +135,17 @@ Build your reading routine. The most successful analysts I have spoken with read
 Set expectations with your personal life. Hedge fund hours are demanding, particularly during earnings season and around major catalysts. Having honest conversations with family and friends about your schedule before you start is better than having them after your first 80-hour week.
 
 Remember that the first 6-12 months at a new fund are an extended interview. Your probationary period is real, even if it is not formally stated. Show up early, stay late, generate ideas, and demonstrate that the fund made the right decision in hiring you.
+
+Understand the review cycle. Most funds conduct annual reviews in December or January, with compensation decisions communicated in February or March. Your first review may come 6-9 months after your start date depending on timing. Ask your PM early on how performance feedback is structured so there are no surprises.
+
+Build internal relationships from day one. The analyst who sits next to you, the trader who executes your ideas, the risk team that monitors your positions, and the operations team that supports the fund all influence your experience and, indirectly, your reputation. Being known as collaborative and low-maintenance creates goodwill that compounds over time.
+
+Document your investment ideas and their outcomes from the start. Keep a personal track record: entry thesis, entry date and price, position size, key developments, exit date and price, and P&L. This serves two purposes: it forces intellectual honesty about what works and what does not, and it creates the verified track record you will need for your next career move.
+
+The hedge fund career path is not linear. Lateral moves between funds are common and expected. The average tenure at a single fund is 3-4 years for analysts and 4-6 years for PMs. Each move should increase your responsibility, compensation, or both. Plan your career in 3-5 year arcs, not year-by-year increments.
+
+Finally, remember that the best time to build relationships for your next role is when you are not looking. Stay connected with recruiters, attend industry events, and maintain your network. The analyst who only calls recruiters when they need a job will always be behind the one who has been having quarterly coffee meetings for the past two years.
+
+Your reputation in this industry is cumulative and permanent. Every interaction with a recruiter, every interview you attend, every professional relationship you build adds to or subtracts from a track record that follows you for decades.
+
+Treat every stage of the process, from rejection to offer to your first day, with the seriousness and professionalism that a 30-year career in investing demands.

@@ -138,3 +138,13 @@ Primary research that the Street does not have. Sell-side analysts cover compani
 Honest acknowledgment of risks. List the top 3 risks to your thesis and explain why you believe the risk-reward is still favorable despite them. Do not hide risks. Interviewers will find them, and if you did not mention them, it looks like you did not consider them.
 
 Clear entry and exit criteria. What price do you buy? What price do you sell if you are right? What price do you stop out if you are wrong? This demonstrates the discipline that PMs want in their analysts.
+
+Common stock pitch mistakes to avoid:
+
+Picking a mega-cap that everyone knows. Pitching Apple, Amazon, or Google is almost never a good idea unless you have a genuinely contrarian and differentiated view. The interviewer has heard hundreds of pitches on these names and will benchmark yours against professional analysts who cover them full-time.
+
+Relying exclusively on sell-side research. If your pitch sounds like a Goldman Sachs initiation report with different price targets, it is not original work. Reference sell-side research for consensus context, but the core of your thesis should come from your own analysis.
+
+Ignoring liquidity and position sizing. A brilliant thesis on a $50M market cap micro-cap is less useful to a $10B fund that cannot meaningfully invest in it. Tailor your pitch to the fund's AUM and typical position sizes. This shows you think practically, not just theoretically.
+
+Presenting stale ideas. If the stock has already moved 30.0% in the direction of your thesis since you started working on it, the risk-reward has changed. Update your analysis to reflect the current price and articulate whether the remaining upside still justifies the position.

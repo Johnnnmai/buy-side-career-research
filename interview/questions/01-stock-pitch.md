@@ -116,15 +116,17 @@ Here are questions I have seen in hedge fund interviews across different strateg
 
 ## Preparing your pitch
 
-Start with an idea you genuinely believe in. Do not pitch a stock just because it seems impressive. Interviewers can tell the difference between authentic conviction and a rehearsed script. Pick a company you have spent real time analyzing and where you have a differentiated view.
+Start with an idea you genuinely believe in. Do not pitch a stock just because it seems impressive. Interviewers can tell the difference between authentic conviction and a rehearsed script. Pick a company you have spent real time analyzing and where you have a differentiated view. The best pitches come from genuine intellectual engagement, not from reading a sell-side report the night before.
 
-Do the primary research. Read the last four to eight quarters of earnings transcripts. Read the 10-K and 10-Q. If possible, talk to customers, competitors, suppliers, or former employees. The more primary research you can reference, the more credible your pitch becomes.
+Do the primary research. Read the last four to eight quarters of earnings transcripts. Read the 10-K and 10-Q. If possible, talk to customers, competitors, suppliers, or former employees. The more primary research you can reference, the more credible your pitch becomes. "I spoke with three former sales reps who confirmed that win rates are improving" is far more compelling than "management said on the call that they are gaining share."
 
-Prepare for pushback. For every point in your thesis, anticipate the strongest counterargument and prepare your response. If a PM says "the Street already knows about this catalyst," you need a compelling answer for why the stock has not moved yet.
+Prepare for pushback. For every point in your thesis, anticipate the strongest counterargument and prepare your response. If a PM says "the Street already knows about this catalyst," you need a compelling answer for why the stock has not moved yet. Write down the five toughest questions someone could ask about your pitch and rehearse your responses.
 
-Practice the timing. A 15-minute verbal pitch needs to be rehearsed. Record yourself and listen back. Are you spending too long on the company overview? Are you rushing through the valuation? The pacing matters.
+Practice the timing. A 15-minute verbal pitch needs to be rehearsed. Record yourself and listen back. Are you spending too long on the company overview? Are you rushing through the valuation? The pacing matters. Most candidates spend too long on description and not enough time on analysis and risk.
 
-Have multiple pitches ready. Some interviewers will ask for a second idea after your first pitch. Some will ask for a long and a short. Having two to three prepared ideas across different sectors and market caps demonstrates breadth.
+Have multiple pitches ready. Some interviewers will ask for a second idea after your first pitch. Some will ask for a long and a short. Having two to three prepared ideas across different sectors and market caps demonstrates breadth. At minimum, prepare one long idea and one short idea in different sectors.
+
+Know your numbers cold. You should be able to recite the company's revenue, EBITDA, free cash flow, net debt, and key operating metrics from memory. If you need to look up basic financials during the pitch, it signals that you have not done enough work. An interviewer may interrupt your pitch to ask "what was last quarter's gross margin?" and you should know instantly.
 
 
 ## Common mistakes
