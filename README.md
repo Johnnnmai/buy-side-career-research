@@ -6,7 +6,7 @@
   </p>
 </p>
 
-<p align="center"><strong>Free:</strong> <a href="https://johnnnmai.github.io/ai-engineer-interview-questions/answer-check/?utm_source=github&utm_medium=readme&utm_campaign=buy-side-career-research">Check your interview answer</a> &nbsp;|&nbsp; <strong>Weekly drills:</strong> <a href="https://valenx.org/pass?utm_source=github&utm_medium=readme&utm_campaign=buy-side-career-research">Interview Pass, $19/mo</a></p>
+<p align="center"><strong>Free:</strong> <a href="https://johnnnmai.github.io/ai-engineer-interview-questions/answer-check/?utm_source=github&utm_medium=readme&utm_campaign=buy-side-career-research">Check your interview answer</a> &nbsp;|&nbsp; <strong>Weekly drills:</strong> <a href="https://valenx.org/pass?utm_source=github&utm_medium=readme&utm_campaign=buy-side-career-research&utm_content=buy-side-career-research_L9">Interview Pass, $19/mo</a></p>
 
 <p align="center">
   <a href="https://github.com/Johnnnmai/buy-side-career-research/stargazers"><img src="https://img.shields.io/github/stars/Johnnnmai/buy-side-career-research?style=social" alt="GitHub Stars"></a>
@@ -31,15 +31,15 @@ Everything here is based on real data: 1,180+ actual job descriptions from buy-s
 
 This repo exists to become the go-to resource for hedge fund careers - role analysis, interview questions, career transition paths, portfolio strategy, and curated resources. All in one place. All backed by data.
 
-Star this repo to keep an eye on updates. Visit [valenx.org](https://valenx.org/) for more hedge fund career resources.
+Star this repo to keep an eye on updates. Visit [valenx.org](https://valenx.org/?utm_source=github&utm_medium=readme&utm_content=buy-side-career-research_L34) for more hedge fund career resources.
 
 ---
 
 ### 📘 Sponsored by
 
-[The 0→1 Hedge Fund Interview Playbook](https://valenx.org/books/hf) - Frameworks for Portfolio Management, Risk Analysis, and Buy-Side Interviews. Built from real hedge fund interview loops at Citadel, Point72, Millennium, Bridgewater, and 50+ other firms.
+[The 0→1 Hedge Fund Interview Playbook](https://valenx.org/books/hf?utm_source=github&utm_medium=readme&utm_content=buy-side-career-research_L40) - Frameworks for Portfolio Management, Risk Analysis, and Buy-Side Interviews. Built from real hedge fund interview loops at Citadel, Point72, Millennium, Bridgewater, and 50+ other firms.
 
-<a href="https://valenx.org/books/hf"><img src="https://img.shields.io/badge/Amazon_Kindle-$9.99-orange?style=for-the-badge&logo=amazon" alt="Get on Amazon"></a> <a href="https://www.amazon.com/dp/B0H2G1W19M"><img src="https://img.shields.io/badge/Free_with-Kindle_Unlimited-blue?style=for-the-badge&logo=amazon" alt="Free with KU"></a>
+<a href="https://valenx.org/books/hf?utm_source=github&utm_medium=readme&utm_content=buy-side-career-research_L42"><img src="https://img.shields.io/badge/Amazon_Kindle-$9.99-orange?style=for-the-badge&logo=amazon" alt="Get on Amazon"></a> <a href="https://www.amazon.com/dp/B0H2G1W19M"><img src="https://img.shields.io/badge/Free_with-Kindle_Unlimited-blue?style=for-the-badge&logo=amazon" alt="Free with KU"></a>
 
 ---
 
@@ -178,7 +178,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 ---
 
 <p align="center">
-  <a href="https://valenx.org/books/hf">📘 The 0→1 Hedge Fund Interview Playbook</a>
+  <a href="https://valenx.org/books/hf?utm_source=github&utm_medium=readme&utm_content=buy-side-career-research_L181">📘 The 0→1 Hedge Fund Interview Playbook</a>
   <br/><br/>
   If this helped, <a href="https://github.com/Johnnnmai/buy-side-career-research/stargazers">leave a ⭐</a>
 </p>
